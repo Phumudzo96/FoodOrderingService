@@ -10,10 +10,10 @@ This Food Ordering Service is a project that can order some food through the dig
 
 Available Features:
 
-Food ordering
-List of outlets
-Order checkout
-Exit
+* Food ordering
+* List of outlets
+* Order checkout
+* Exit
 
 # General information 
 This project was built using Python.  It utilizes control statements and user input to allow the program to function 
